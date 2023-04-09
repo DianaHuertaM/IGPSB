@@ -1,0 +1,5 @@
+%First Row
+#Records	#Pickers	#Orders	#Products	CartCapacity	#StorageLocations	SLCapacity	AffinityValue	TimePerReorganize(not considered in this version)	OptimizationTime(Sec)
+
+%From second to <#Records> row
+IDPicker(Dummy)	IDOrder	IDProduct	TimeWindow(sec)	Demand(units)	ProductWeight	ProductVolume	AffinityCode	
